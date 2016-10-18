@@ -4,13 +4,12 @@ You are free to use this code in non-commercial applications. For use in a publi
 
 
 INSTALLATION:
-The code need theano and python 2.7
+- Theano
+- python 2.7
 
 CONTACT (feel free to contact us):
-
-huseyin.coskun@tum.de
-
-achilles@in.tum.de
+- huseyin.coskun@tum.de
+- achilles@in.tum.de
 
 
 Requirements:
@@ -21,10 +20,7 @@ Requirements:
 
 
 Usage:
+- User train_cnn_lstm to train model from images.
+- User train_lstm to train model from cnn features.
 
-User train_cnn_lstm to train model from images.
-
-User train_lstm to train model from cnn features.
-
-Notes:
 Feel free to participate to development of the code
