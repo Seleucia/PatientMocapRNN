@@ -1,5 +1,6 @@
 *.txt
 .idea/
+.idea
 *.coskunh
 *.ckpt
 files/

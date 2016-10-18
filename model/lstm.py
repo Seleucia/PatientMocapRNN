@@ -14,7 +14,7 @@ class lstm:
        sequence_length=params["seq_length"]
 
        lr=params['lr']
-       self.n_in = 2048
+       self.n_in = 1024
        self.n_lstm = params['n_hidden']
        self.n_out = params['n_output']
 

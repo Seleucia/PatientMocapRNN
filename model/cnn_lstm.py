@@ -19,7 +19,6 @@ class cnn_lstm(object):
         batch_size=params["batch_size"]
         sequence_length=params["seq_length"]
 
-        # minibatch)
         X = T.tensor3() # batch of sequence of vector
         Y = T.tensor3() # batch of sequence of vector
         is_train = T.iscalar('is_train') # pseudo boolean for switching between training and prediction
