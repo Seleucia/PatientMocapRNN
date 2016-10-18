@@ -1,6 +1,6 @@
 # PatientMocapRNN
 
-You are free to use this code in non-commercial applications. For use in a publication or presentation, please cite the PatienMocapRNN publication(s).
+You are free to use this code in non-commercial applications. For use in a publication or presentation, please cite the PatientMocap.
 
 
 INSTALLATION:
