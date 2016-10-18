@@ -15,7 +15,7 @@ CONTACT (feel free to contact us):
 Requirements:
 - Theano
 - Python 2.7
-- NVIDIA CUDA 6.5 (for the GPU implementation)
+- NVIDIA CUDA 7.5 (for the GPU implementation)
 
 
 
