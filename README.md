@@ -7,7 +7,9 @@ INSTALLATION:
 The code need theano and python 2.7
 
 CONTACT (feel free to contact us):
+
 huseyin.coskun@tum.de
+
 achilles@in.tum.de
 
 
