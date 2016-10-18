@@ -1,6 +1,6 @@
 
 from model.lstm import  lstm
-from model.cnn_lstm_s import  cnn_lstm_s
+from model.cnn_lstm import  cnn_lstm_s
 from model.lstm2erd import lstm2erd
 from model.gru import gru
 from model.cnn_lstm import cnn_lstm

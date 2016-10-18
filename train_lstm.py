@@ -19,8 +19,8 @@ def train_rnn(params):
    params["len_train"]=Y_train.shape[0]*Y_train.shape[1]
    params["len_test"]=Y_test.shape[0]*Y_test.shape[1]
    u.start_log(params)
-   index_train_list,S_Train_list=du.get_batch_indexes(params,S_Train_list)
-   index_test_list,S_Test_list=du.get_batch_indexes(params,S_Test_list)
+   index_train_list,S_Train_list=du.get_batch_indexes(S_Train_list)
+   index_test_list,S_Test_list=du.get_batch_indexes(S_Test_list)
    batch_size=params['batch_size']
    n_train_batches = len(index_train_list)
    n_train_batches /= batch_size
