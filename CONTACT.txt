@@ -1,6 +1,7 @@
 Code authors:
 - Huseyin Coskun (huseyin.coskun@tum.de)
 - Felix Achilles (achilles@in.tum.de )
+- Federico Tombari (tombari@in.tum.de)
 
 Paper Authors: PatientMocap: Human Pose Estimation under Blanket Occlusion for Hospital Monitoring Applications
 - Felix Achilles (achilles@in.tum.de )
